@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=NC7WZ241K8X
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=2.1
+Released=2021-01-08 16:58:35
+Downloaded=2025-07-03 19:07:43
+3D=Y

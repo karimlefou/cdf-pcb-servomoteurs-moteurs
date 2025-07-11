@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MPQ4317GRE_5_AEC1_Z'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Monolithic Power Systems (MPS)", "MPQ4317GRE-5-AEC1-Z" (!) = "", "MPQ4317GRE5AEC1Z", "Other", "946-MPQ4317GRE5AEC1Z", "https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MPQ4317GRE-5-AEC1-Z?qs=TCDPyi3sCW1Mo5vjLhOdKA%3D%3D", "Buck Switching Regulator IC Positive Adjustable 0.815V 1 Output 7A 20-PowerVFQFN", "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MPQ4317GRE-AEC1/document_id/9934/", "1 mm"
+END_PART
+
+END.

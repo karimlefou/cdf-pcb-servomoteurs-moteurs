@@ -1,0 +1,16 @@
+.NC7WZ241K8X :1 ;Patented noise/EMI reduction circuitry implemented; MicroPak Pb-Free leadless package; Outputs are overvoltage tolerant in 3-STATE mode; Power down high impedance inputs/outputs; Broad VCC Operating Range: 1.65V to 5.5V; High Output Drive; +/-24 mA at 3V VCC; Matches the performance of LCX when operated at 3.3V VCC; Space saving US8 surface mount package; Overvoltage tolerant inputs facilitate 5V to 3V translation; Ultra High Speed; tPD 2.6 ns Typ into 50 pF at 5V VCC
+SOP50P310X90-8N
+*STM IC
+*NGS
+*PLB 1="'OE'" 2="A1" 3="Y2" 4="GND" 5="A2" 6="Y1" 7="OE" 8="VCC"
+*MXP 8
+*DFN NC7WZ241K8X
+~!Mouser Part Number (512-NC7WZ241K8X)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/NC7WZ241K8X?qs=MA%252B40jw2YMo9oG31N%252Bvd7A%3D%3D)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (NC7WZ241K8X)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/NC7WZ241-D.PDF)
+~!Height (0.9mm)
+~!3D_Model (NC7WZ241K8X)
+NC7WZ241K8X
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

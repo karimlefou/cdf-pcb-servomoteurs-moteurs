@@ -1,0 +1,9 @@
+Manufacturer=Monolithic Power Systems (MPS)
+PartNumber=MPQ4317GRE-5-AEC1-Z
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=25
+Version=1.5
+Released=2022-09-22 07:36:33
+Downloaded=2025-06-25 14:21:41
+3D=Y

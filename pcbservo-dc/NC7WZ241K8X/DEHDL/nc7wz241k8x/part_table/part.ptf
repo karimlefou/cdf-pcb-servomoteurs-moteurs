@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NC7WZ241K8X'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "NC7WZ241K8X" (!) = "", "SOP50P310X90-8N", "Small Outline Packages", "512-NC7WZ241K8X", "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/NC7WZ241K8X?qs=MA%252B40jw2YMo9oG31N%252Bvd7A%3D%3D", "Patented noise/EMI reduction circuitry implemented; MicroPak Pb-Free leadless package; Outputs are overvoltage tolerant in 3-STATE mode; Power down high impedance inputs/outputs; Broad VCC Operating Range: 1.65V to 5.5V; High Output Drive; +/-24 mA at 3V VCC; Matches the performance of LCX when operated at 3.3V VCC; Space saving US8 surface mount package; Overvoltage tolerant inputs facilitate 5V to 3V translation; Ultra High Speed; tPD 2.6 ns Typ into 50 pF at 5V VCC", "https://www.onsemi.com/pub/Collateral/NC7WZ241-D.PDF", "0.9 mm"
+END_PART
+
+END.

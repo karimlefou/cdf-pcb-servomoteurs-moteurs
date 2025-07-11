@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MPQ4317GRE-5-AEC1-Z"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-09-22-07:36:33)
+    (mountForm default
+        (footprintRef "MPQ4317GRE5AEC1Z")
+        (spec "System")
+    )
+)

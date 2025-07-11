@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NC7WZ241K8X
+#/1206028/1710560/2.50/8/2/Integrated Circuit
+DEF NC7WZ241K8X IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "NC7WZ241K8X" 850 200 50 H V L CNN
+F2 "SOP50P310X90-8N" 850 100 50 H I L CNN
+F3 "https://www.onsemi.com/pub/Collateral/NC7WZ241-D.PDF" 850 0 50 H I L CNN
+F4 "Patented noise/EMI reduction circuitry implemented; MicroPak Pb-Free leadless package; Outputs are overvoltage tolerant in 3-STATE mode; Power down high impedance inputs/outputs; Broad VCC Operating Range: 1.65V to 5.5V; High Output Drive; +/-24 mA at 3V VCC; Matches the performance of LCX when operated at 3.3V VCC; Space saving US8 surface mount package; Overvoltage tolerant inputs facilitate 5V to 3V translation; Ultra High Speed; tPD 2.6 ns Typ into 50 pF at 5V VCC" 850 -100 50 H I L CNN "Description"
+F5 "0.9" 850 -200 50 H I L CNN "Height"
+F6 "512-NC7WZ241K8X" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/NC7WZ241K8X?qs=MA%252B40jw2YMo9oG31N%252Bvd7A%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "onsemi" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "NC7WZ241K8X" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~OE 1 0 0 200 R 50 50 0 0 P
+X A1 2 0 -100 200 R 50 50 0 0 P
+X Y2 3 0 -200 200 R 50 50 0 0 P
+X GND 4 0 -300 200 R 50 50 0 0 P
+X VCC 8 1000 0 200 L 50 50 0 0 P
+X OE 7 1000 -100 200 L 50 50 0 0 P
+X Y1 6 1000 -200 200 L 50 50 0 0 P
+X A2 5 1000 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
