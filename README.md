@@ -27,6 +27,16 @@ et la couche GND :
 
 <img width="442" height="519" alt="image" src="https://github.com/user-attachments/assets/21960c5c-d59f-4367-aff8-74bd2cf510c1" />
 
+et la je commence a relier (mais pas encore fini ) : 
+la couche haute  rouge:
+<img width="466" height="507" alt="image" src="https://github.com/user-attachments/assets/2fb457e0-23da-4dfb-8bae-c76af92850e4" />
+et la couche basse bleu : 
+<img width="305" height="348" alt="image" src="https://github.com/user-attachments/assets/efff7535-59e8-4857-ac0e-0bdef7b0c892" />
+
+pour l'epaisseur des fils et vias  , je me suis base sur cette formule 
+<img width="572" height="238" alt="image" src="https://github.com/user-attachments/assets/957781f4-5aec-44c3-be97-bf62ddafb750" />
+<img width="710" height="207" alt="image" src="https://github.com/user-attachments/assets/64cfafbc-630f-4fec-a856-00d991a74bdd" />
+
 voila si vous avez des remarque je suis preneur . 
 
 
