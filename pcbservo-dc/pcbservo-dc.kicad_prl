@@ -7,7 +7,7 @@
     "hidden_nets": [
       "GND"
     ],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.9200000166893005,
@@ -95,18 +95,18 @@
       11
     ],
     "col_widths": [
-      162,
-      147,
-      102,
-      99,
-      101,
-      132,
-      98,
-      103,
-      91,
-      91,
-      91,
-      91
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

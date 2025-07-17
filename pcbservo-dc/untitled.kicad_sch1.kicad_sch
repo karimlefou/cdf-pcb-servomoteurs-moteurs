@@ -2207,7 +2207,7 @@
 	)
 	(rectangle
 		(start 14.605 84.455)
-		(end 86.36 128.27)
+		(end 101.092 135.636)
 		(stroke
 			(width 0)
 			(type default)
@@ -2241,7 +2241,7 @@
 		)
 		(uuid a8805988-c08b-45e4-bbe1-174a02453749)
 	)
-	(text "regulateur 6V à 3,3 V\n"
+	(text "regulateur 5V à 3,3 V\n"
 		(exclude_from_sim no)
 		(at 27.178 17.018 0)
 		(effects
@@ -2271,7 +2271,7 @@
 		)
 		(uuid "52341030-5402-488f-a959-274cad775e04")
 	)
-	(text "regulateur de 6V à 5V\n"
+	(text "regulateur de 25V à 5V\n"
 		(exclude_from_sim no)
 		(at 27.686 86.868 0)
 		(effects
@@ -2867,7 +2867,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 109.22) (xy 43.18 109.22)
+			(xy 31.75 109.22) (xy 43.18 109.22)
 		)
 		(stroke
 			(width 0)
@@ -3532,7 +3532,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 69.85 109.22 0)
 			(effects
 				(font
@@ -3575,6 +3575,73 @@
 			(project "pcbservo-dc"
 				(path "/be41f19f-3f75-42cb-bbbf-7251912cb437/634157a2-b1a1-4f11-8683-17550dacecc7"
 					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+7.5V")
+		(at 31.75 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "46ec1e12-60ff-4628-8853-6fc7b7932e72")
+		(property "Reference" "#PWR054"
+			(at 31.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+25V"
+			(at 34.29 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 31.75 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+7.5V\""
+			(at 31.75 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a81a31af-d49d-4150-9cf6-d65e7a60e416")
+		)
+		(instances
+			(project "pcbservo-dc"
+				(path "/be41f19f-3f75-42cb-bbbf-7251912cb437/634157a2-b1a1-4f11-8683-17550dacecc7"
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -3674,7 +3741,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 76.2 50.8 0)
 			(effects
 				(font
@@ -5931,72 +5998,6 @@
 			(project "pcbservo-dc"
 				(path "/be41f19f-3f75-42cb-bbbf-7251912cb437/634157a2-b1a1-4f11-8683-17550dacecc7"
 					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+7.5V")
-		(at 39.37 109.22 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fa8bda2b-3eb2-41f2-b684-ecf1f62fdb41")
-		(property "Reference" "#PWR041"
-			(at 39.37 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+6V"
-			(at 39.37 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 39.37 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 39.37 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+7.5V\""
-			(at 39.37 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1ccc3b57-aa72-4823-8f3c-249f2263d599")
-		)
-		(instances
-			(project "pcbservo-dc"
-				(path "/be41f19f-3f75-42cb-bbbf-7251912cb437/634157a2-b1a1-4f11-8683-17550dacecc7"
-					(reference "#PWR041")
 					(unit 1)
 				)
 			)
