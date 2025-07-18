@@ -24,14 +24,15 @@ et pour le routage je suis finis de poser mes composants et je vais commencer a 
 <img width="486" height="506" alt="image" src="https://github.com/user-attachments/assets/c5692e23-be8a-4eb7-bb30-533f85fd249c" />
 
 et la couche GND : 
+<img width="484" height="539" alt="image" src="https://github.com/user-attachments/assets/c1ced15f-a679-42a7-8a8d-ddb0d6d9e7c3" />
 
-<img width="442" height="519" alt="image" src="https://github.com/user-attachments/assets/21960c5c-d59f-4367-aff8-74bd2cf510c1" />
-
-et la je commence a relier (mais pas encore fini ) : 
 la couche haute  rouge:
-<img width="466" height="507" alt="image" src="https://github.com/user-attachments/assets/2fb457e0-23da-4dfb-8bae-c76af92850e4" />
-et la couche basse bleu : 
-<img width="305" height="348" alt="image" src="https://github.com/user-attachments/assets/efff7535-59e8-4857-ac0e-0bdef7b0c892" />
+<img width="490" height="541" alt="image" src="https://github.com/user-attachments/assets/64cf10b3-4f80-4997-8d68-dea22c2c7c54" />
+
+et la couche basse bleu :
+<img width="493" height="543" alt="image" src="https://github.com/user-attachments/assets/f092ae9d-50c3-40cb-a5db-25d15d1daa72" />
+et la couche power :
+<img width="502" height="537" alt="image" src="https://github.com/user-attachments/assets/bd675c69-631a-4be2-88c1-c76ce3946870" />
 
 pour l'epaisseur des fils et vias  , je me suis base sur cette formule 
 <img width="572" height="238" alt="image" src="https://github.com/user-attachments/assets/957781f4-5aec-44c3-be97-bf62ddafb750" />
