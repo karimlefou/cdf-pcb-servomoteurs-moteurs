@@ -38,6 +38,9 @@ pour l'epaisseur des fils et vias  , je me suis base sur cette formule
 <img width="572" height="238" alt="image" src="https://github.com/user-attachments/assets/957781f4-5aec-44c3-be97-bf62ddafb750" />
 <img width="710" height="207" alt="image" src="https://github.com/user-attachments/assets/64cfafbc-630f-4fec-a856-00d991a74bdd" />
 
-voila si vous avez des remarque je suis preneur . 
+merci a @CaptainJaja pour les contributions 
+<img width="649" height="481" alt="image" src="https://github.com/user-attachments/assets/0a569d82-d418-4f1c-88e8-2cf05f54e2ba" />
+
+voila si vous avez des remarques je suis preneur . 
 
 
